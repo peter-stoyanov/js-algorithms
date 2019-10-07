@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-eslint": "^3.0.1",
+    "gulp-jasmine": "^2.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/peter-stoyanov/js-algorithms.git"
